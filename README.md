@@ -1,21 +1,25 @@
 # NeetCode 150
 
-**Progress:** 3 / 150 done (2%)
+**Progress:** 6 / 150 done (4%)
 
 ## By tag
 
-### 🟢 Breeze (2)
+### 🟢 Breeze (5)
 
 - [Contains Duplicate](01-arrays-and-hashing/01-contains-duplicate/) — _Arrays And Hashing_
 - [Valid Anagram](01-arrays-and-hashing/02-valid-anagram/) — _Arrays And Hashing_
+- [Group Anagrams](01-arrays-and-hashing/04-group-anagrams/) — _Arrays And Hashing_
+- [Top K Frequent Elements](01-arrays-and-hashing/05-top-k-frequent-elements/) — _Arrays And Hashing_
+- [Valid Sudoku](01-arrays-and-hashing/07-valid-sudoku/) — _Arrays And Hashing_
 
 ### 🟡 Needed Help (1)
 
 - [Two Sum](01-arrays-and-hashing/03-two-sum/) — _Arrays And Hashing_
 
-### 🔁 Do Again (1)
+### 🔁 Do Again (2)
 
 - [Two Sum](01-arrays-and-hashing/03-two-sum/) — _Arrays And Hashing_
+- [Top K Frequent Elements](01-arrays-and-hashing/05-top-k-frequent-elements/) — _Arrays And Hashing_
 
 ## All problems
 
@@ -24,10 +28,10 @@
 | [Contains Duplicate](01-arrays-and-hashing/01-contains-duplicate/) | Arrays And Hashing | 🟢 breeze |
 | [Valid Anagram](01-arrays-and-hashing/02-valid-anagram/) | Arrays And Hashing | 🟢 breeze |
 | [Two Sum](01-arrays-and-hashing/03-two-sum/) | Arrays And Hashing | 🟡 needed-help, 🔁 do-again |
-| [Group Anagrams](01-arrays-and-hashing/04-group-anagrams/) | Arrays And Hashing | _untagged_ |
-| [Top K Frequent Elements](01-arrays-and-hashing/05-top-k-frequent-elements/) | Arrays And Hashing | _untagged_ |
+| [Group Anagrams](01-arrays-and-hashing/04-group-anagrams/) | Arrays And Hashing | 🟢 breeze |
+| [Top K Frequent Elements](01-arrays-and-hashing/05-top-k-frequent-elements/) | Arrays And Hashing | 🟢 breeze, 🔁 do-again |
 | [Product Of Array Except Self](01-arrays-and-hashing/06-product-of-array-except-self/) | Arrays And Hashing | _untagged_ |
-| [Valid Sudoku](01-arrays-and-hashing/07-valid-sudoku/) | Arrays And Hashing | _untagged_ |
+| [Valid Sudoku](01-arrays-and-hashing/07-valid-sudoku/) | Arrays And Hashing | 🟢 breeze |
 | [Encode And Decode Strings](01-arrays-and-hashing/08-encode-and-decode-strings/) | Arrays And Hashing | _untagged_ |
 | [Longest Consecutive Sequence](01-arrays-and-hashing/09-longest-consecutive-sequence/) | Arrays And Hashing | _untagged_ |
 | [Valid Palindrome](02-two-pointers/01-valid-palindrome/) | Two Pointers | _untagged_ |
