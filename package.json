@@ -1,0 +1,12 @@
+{
+  "name": "neetcode-150",
+  "version": "1.0.0",
+  "description": "Working through the Neetcode 150",
+  "license": "ISC",
+  "author": "Aarin Zeng",
+  "type": "commonjs",
+  "scripts": {},
+  "dependencies": {
+    "husky": "^9.1.7"
+  }
+}
