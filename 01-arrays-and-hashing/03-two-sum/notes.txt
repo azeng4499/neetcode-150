@@ -1,0 +1,6 @@
+8/21/26
+Tags: needed-help, do-again
+
+Kind of embarassing but I used a sort then pointers approach at first but then I realized this isn't
+like the Leetcode one where the array is passed in sorted. Checker wanted indices from the unsorted
+array so I had to use Claude to point me to a more optimal solution.

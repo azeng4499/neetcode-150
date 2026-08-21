@@ -22,6 +22,7 @@ const TAG_META = {
 
 function titleCase(slug) {
   return slug
+    .replace(/^\d+-/, "") // drop the leading order prefix (e.g. "03-two-sum")
     .split("-")
     .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
     .join(" ");
@@ -29,7 +30,12 @@ function titleCase(slug) {
 
 function parseTags(notesPath) {
   const text = fs.readFileSync(notesPath, "utf8");
-  const line = text.split(/\r?\n/).find((l) => /^\s*tags\s*:/i.test(l));
+  // Notes are an append-only log; the newest entry is at the bottom, so use the
+  // LAST Tags: line — the most recent take supersedes earlier attempts.
+  const line = text
+    .split(/\r?\n/)
+    .filter((l) => /^\s*tags\s*:/i.test(l))
+    .at(-1);
   if (!line) return [];
   return line
     .replace(/^\s*tags\s*:/i, "")
@@ -75,9 +81,13 @@ function build() {
     .sort();
   const orderedTags = [...knownTags, ...otherTags];
 
+  // A problem counts as "done" once it has at least one tag (i.e. a Tags: line).
+  const done = problems.filter((p) => p.tags.length > 0).length;
+  const pct = problems.length ? Math.round((done / problems.length) * 100) : 0;
+
   // Build README.
   let out = "# NeetCode 150\n\n";
-  out += `**Progress:** ${problems.length} problem${problems.length === 1 ? "" : "s"} logged\n\n`;
+  out += `**Progress:** ${done} / ${problems.length} done (${pct}%)\n\n`;
 
   out += "## By tag\n\n";
   if (orderedTags.length === 0) {
