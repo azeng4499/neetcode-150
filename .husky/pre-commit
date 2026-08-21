@@ -1,0 +1,2 @@
+node generate-index.js
+git add README.md

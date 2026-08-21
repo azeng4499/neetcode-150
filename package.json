@@ -5,7 +5,11 @@
   "license": "ISC",
   "author": "Aarin Zeng",
   "type": "commonjs",
-  "scripts": {},
+  "scripts": {
+    "prepare": "husky",
+    "index": "node generate-index.js",
+    "watch": "node generate-index.js --watch"
+  },
   "dependencies": {
     "husky": "^9.1.7"
   }
