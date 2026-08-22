@@ -1,25 +1,34 @@
 # NeetCode 150
 
-**Progress:** 6 / 150 done (4%)
+**Progress:** 11 / 150 done (7%)
 
 ## By tag
 
-### 🟢 Breeze (5)
+### 🟢 Breeze (7)
 
 - [Contains Duplicate](01-arrays-and-hashing/01-contains-duplicate/) — _Arrays And Hashing_
 - [Valid Anagram](01-arrays-and-hashing/02-valid-anagram/) — _Arrays And Hashing_
 - [Group Anagrams](01-arrays-and-hashing/04-group-anagrams/) — _Arrays And Hashing_
 - [Top K Frequent Elements](01-arrays-and-hashing/05-top-k-frequent-elements/) — _Arrays And Hashing_
-- [Valid Sudoku](01-arrays-and-hashing/07-valid-sudoku/) — _Arrays And Hashing_
+- [Valid Palindrome](02-two-pointers/01-valid-palindrome/) — _Two Pointers_
+- [Two Sum Ii Input Array Is Sorted](02-two-pointers/02-two-sum-ii-input-array-is-sorted/) — _Two Pointers_
+- [Container With Most Water](02-two-pointers/04-container-with-most-water/) — _Two Pointers_
 
 ### 🟡 Needed Help (1)
 
 - [Two Sum](01-arrays-and-hashing/03-two-sum/) — _Arrays And Hashing_
 
-### 🔁 Do Again (2)
+### 🔁 Do Again (5)
 
 - [Two Sum](01-arrays-and-hashing/03-two-sum/) — _Arrays And Hashing_
 - [Top K Frequent Elements](01-arrays-and-hashing/05-top-k-frequent-elements/) — _Arrays And Hashing_
+- [Valid Sudoku](01-arrays-and-hashing/07-valid-sudoku/) — _Arrays And Hashing_
+- [Longest Consecutive Sequence](01-arrays-and-hashing/09-longest-consecutive-sequence/) — _Arrays And Hashing_
+- [Trapping Rain Water](02-two-pointers/05-trapping-rain-water/) — _Two Pointers_
+
+### 🧠 Tricky (1)
+
+- [Trapping Rain Water](02-two-pointers/05-trapping-rain-water/) — _Two Pointers_
 
 ## All problems
 
@@ -31,14 +40,14 @@
 | [Group Anagrams](01-arrays-and-hashing/04-group-anagrams/) | Arrays And Hashing | 🟢 breeze |
 | [Top K Frequent Elements](01-arrays-and-hashing/05-top-k-frequent-elements/) | Arrays And Hashing | 🟢 breeze, 🔁 do-again |
 | [Product Of Array Except Self](01-arrays-and-hashing/06-product-of-array-except-self/) | Arrays And Hashing | _untagged_ |
-| [Valid Sudoku](01-arrays-and-hashing/07-valid-sudoku/) | Arrays And Hashing | 🟢 breeze |
+| [Valid Sudoku](01-arrays-and-hashing/07-valid-sudoku/) | Arrays And Hashing | 🔁 do-again |
 | [Encode And Decode Strings](01-arrays-and-hashing/08-encode-and-decode-strings/) | Arrays And Hashing | _untagged_ |
-| [Longest Consecutive Sequence](01-arrays-and-hashing/09-longest-consecutive-sequence/) | Arrays And Hashing | _untagged_ |
-| [Valid Palindrome](02-two-pointers/01-valid-palindrome/) | Two Pointers | _untagged_ |
-| [Two Sum Ii Input Array Is Sorted](02-two-pointers/02-two-sum-ii-input-array-is-sorted/) | Two Pointers | _untagged_ |
+| [Longest Consecutive Sequence](01-arrays-and-hashing/09-longest-consecutive-sequence/) | Arrays And Hashing | 🔁 do-again |
+| [Valid Palindrome](02-two-pointers/01-valid-palindrome/) | Two Pointers | 🟢 breeze |
+| [Two Sum Ii Input Array Is Sorted](02-two-pointers/02-two-sum-ii-input-array-is-sorted/) | Two Pointers | 🟢 breeze |
 | [3sum](02-two-pointers/03-3sum/) | Two Pointers | _untagged_ |
-| [Container With Most Water](02-two-pointers/04-container-with-most-water/) | Two Pointers | _untagged_ |
-| [Trapping Rain Water](02-two-pointers/05-trapping-rain-water/) | Two Pointers | _untagged_ |
+| [Container With Most Water](02-two-pointers/04-container-with-most-water/) | Two Pointers | 🟢 breeze |
+| [Trapping Rain Water](02-two-pointers/05-trapping-rain-water/) | Two Pointers | 🧠 tricky, 🔁 do-again |
 | [Best Time To Buy And Sell Stock](03-sliding-window/01-best-time-to-buy-and-sell-stock/) | Sliding Window | _untagged_ |
 | [Longest Substring Without Repeating Characters](03-sliding-window/02-longest-substring-without-repeating-characters/) | Sliding Window | _untagged_ |
 | [Longest Repeating Character Replacement](03-sliding-window/03-longest-repeating-character-replacement/) | Sliding Window | _untagged_ |

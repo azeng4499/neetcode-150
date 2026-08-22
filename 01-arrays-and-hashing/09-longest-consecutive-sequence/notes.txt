@@ -1,0 +1,10 @@
+8/21/26
+Tags: do-again
+
+I tried with my own implementation: 
+   - Use set to dedupe
+   - Add elements to minHeap
+   - Loop through minHeap to find long consective
+
+My solution was too ineffcient, ranking near the bottom. So I used Claude to help me come up with a 
+better solution. Worth a retry at some point
