@@ -1,10 +1,10 @@
 # NeetCode 150
 
-**Progress:** 11 / 150 done (7%)
+**Progress:** 13 / 150 done (9%)
 
 ## By tag
 
-### 🟢 Breeze (7)
+### 🟢 Breeze (8)
 
 - [Contains Duplicate](01-arrays-and-hashing/01-contains-duplicate/) — _Arrays And Hashing_
 - [Valid Anagram](01-arrays-and-hashing/02-valid-anagram/) — _Arrays And Hashing_
@@ -13,22 +13,25 @@
 - [Valid Palindrome](02-two-pointers/01-valid-palindrome/) — _Two Pointers_
 - [Two Sum Ii Input Array Is Sorted](02-two-pointers/02-two-sum-ii-input-array-is-sorted/) — _Two Pointers_
 - [Container With Most Water](02-two-pointers/04-container-with-most-water/) — _Two Pointers_
+- [Best Time To Buy And Sell Stock](03-sliding-window/01-best-time-to-buy-and-sell-stock/) — _Sliding Window_
 
 ### 🟡 Needed Help (1)
 
 - [Two Sum](01-arrays-and-hashing/03-two-sum/) — _Arrays And Hashing_
 
-### 🔁 Do Again (5)
+### 🔁 Do Again (6)
 
 - [Two Sum](01-arrays-and-hashing/03-two-sum/) — _Arrays And Hashing_
 - [Top K Frequent Elements](01-arrays-and-hashing/05-top-k-frequent-elements/) — _Arrays And Hashing_
 - [Valid Sudoku](01-arrays-and-hashing/07-valid-sudoku/) — _Arrays And Hashing_
 - [Longest Consecutive Sequence](01-arrays-and-hashing/09-longest-consecutive-sequence/) — _Arrays And Hashing_
 - [Trapping Rain Water](02-two-pointers/05-trapping-rain-water/) — _Two Pointers_
+- [Longest Repeating Character Replacement](03-sliding-window/03-longest-repeating-character-replacement/) — _Sliding Window_
 
-### 🧠 Tricky (1)
+### 🧠 Tricky (2)
 
 - [Trapping Rain Water](02-two-pointers/05-trapping-rain-water/) — _Two Pointers_
+- [Longest Repeating Character Replacement](03-sliding-window/03-longest-repeating-character-replacement/) — _Sliding Window_
 
 ## All problems
 
@@ -48,9 +51,9 @@
 | [3sum](02-two-pointers/03-3sum/) | Two Pointers | _untagged_ |
 | [Container With Most Water](02-two-pointers/04-container-with-most-water/) | Two Pointers | 🟢 breeze |
 | [Trapping Rain Water](02-two-pointers/05-trapping-rain-water/) | Two Pointers | 🧠 tricky, 🔁 do-again |
-| [Best Time To Buy And Sell Stock](03-sliding-window/01-best-time-to-buy-and-sell-stock/) | Sliding Window | _untagged_ |
+| [Best Time To Buy And Sell Stock](03-sliding-window/01-best-time-to-buy-and-sell-stock/) | Sliding Window | 🟢 breeze |
 | [Longest Substring Without Repeating Characters](03-sliding-window/02-longest-substring-without-repeating-characters/) | Sliding Window | _untagged_ |
-| [Longest Repeating Character Replacement](03-sliding-window/03-longest-repeating-character-replacement/) | Sliding Window | _untagged_ |
+| [Longest Repeating Character Replacement](03-sliding-window/03-longest-repeating-character-replacement/) | Sliding Window | 🧠 tricky, 🔁 do-again |
 | [Permutation In String](03-sliding-window/04-permutation-in-string/) | Sliding Window | _untagged_ |
 | [Minimum Window Substring](03-sliding-window/05-minimum-window-substring/) | Sliding Window | _untagged_ |
 | [Sliding Window Maximum](03-sliding-window/06-sliding-window-maximum/) | Sliding Window | _untagged_ |
