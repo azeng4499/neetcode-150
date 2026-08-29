@@ -2,3 +2,9 @@
 Tags: breeze, do-again
 
 Got answer first try. Doesn't see like my solution is optimal though, so worth another attempt
+
+8/29/26
+Tags: breeze, do-again
+
+Can conceptualize the heap solution, but still needed Claude to help me. Should be good the next time
+I do it.

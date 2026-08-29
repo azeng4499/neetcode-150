@@ -5,18 +5,18 @@ class Solution {
    * @return {number[]}
    */
   topKFrequent(nums, k) {
-    const map = new Map();
-    for (const num of nums) {
-      if (map.has(num)) {
-        map.set(num, map.get(num) + 1);
-      } else {
-        map.set(num, 1);
-      }
+    const count = new Map();
+    for (const n of nums) {
+      count.set(n, (count.get(n) || 0) + 1);
     }
 
-    const resultArr = [...map];
-    resultArr.sort((x, y) => y[1] - x[1]);
+    const heap = new MinPriorityQueue((entry) => entry[1]);
 
-    return resultArr.slice(0, k).map((x) => x[0]);
+    for (const entry of count) {
+      heap.enqueue(entry);
+      if (heap.size() > k) heap.dequeue();
+    }
+
+    return heap.toArray().map(([num]) => num);
   }
 }

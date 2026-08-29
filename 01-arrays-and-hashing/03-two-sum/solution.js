@@ -1,16 +1,16 @@
 class Solution {
-  /**
-   * @param {number[]} nums
-   * @param {number} target
-   * @return {number[]}
-   */
   twoSum(nums, target) {
     const seen = new Map();
-    for (let i = 0; i < nums.length; i++) {
-      const need = target - nums[i];
-      if (seen.has(need)) return [seen.get(need), i];
-      seen.set(nums[i], i);
+
+    for (let idx = 0; idx < nums.length; idx++) {
+      const num = nums[idx];
+      const need = target - num;
+
+      if (seen.has(need)) {
+        return [seen.get(need), idx];
+      } else {
+        seen.set(num, idx);
+      }
     }
-    return [];
   }
 }

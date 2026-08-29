@@ -5,21 +5,21 @@ class Solution {
    */
   longestConsecutive(nums) {
     const set = new Set(nums);
-    let max_consec = 0;
+    let longest = 0;
 
-    for (const num of set) {
+    for (const num of nums) {
       if (set.has(num - 1)) continue;
 
-      let curr_consec = 1;
-      let target = num + 1;
-      while (set.has(target)) {
-        curr_consec += 1;
-        target += 1;
+      let currLongest = 1;
+      let nextTarget = num + 1;
+      while (set.has(nextTarget)) {
+        nextTarget += 1;
+        currLongest += 1;
       }
 
-      max_consec = Math.max(curr_consec, max_consec);
+      longest = Math.max(currLongest, longest);
     }
 
-    return max_consec;
+    return longest;
   }
 }

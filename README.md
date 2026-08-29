@@ -4,34 +4,32 @@
 
 ## By tag
 
-### 🟢 Breeze (9)
+### 🟢 Breeze (12)
 
 - [Contains Duplicate](01-arrays-and-hashing/01-contains-duplicate/) — _Arrays And Hashing_
 - [Valid Anagram](01-arrays-and-hashing/02-valid-anagram/) — _Arrays And Hashing_
+- [Two Sum](01-arrays-and-hashing/03-two-sum/) — _Arrays And Hashing_
 - [Group Anagrams](01-arrays-and-hashing/04-group-anagrams/) — _Arrays And Hashing_
 - [Top K Frequent Elements](01-arrays-and-hashing/05-top-k-frequent-elements/) — _Arrays And Hashing_
+- [Valid Sudoku](01-arrays-and-hashing/07-valid-sudoku/) — _Arrays And Hashing_
 - [Valid Palindrome](02-two-pointers/01-valid-palindrome/) — _Two Pointers_
 - [Two Sum Ii Input Array Is Sorted](02-two-pointers/02-two-sum-ii-input-array-is-sorted/) — _Two Pointers_
 - [Container With Most Water](02-two-pointers/04-container-with-most-water/) — _Two Pointers_
 - [Best Time To Buy And Sell Stock](03-sliding-window/01-best-time-to-buy-and-sell-stock/) — _Sliding Window_
 - [Valid Parentheses](04-stack/01-valid-parentheses/) — _Stack_
-
-### 🟡 Needed Help (4)
-
-- [Two Sum](01-arrays-and-hashing/03-two-sum/) — _Arrays And Hashing_
-- [Longest Repeating Character Replacement](03-sliding-window/03-longest-repeating-character-replacement/) — _Sliding Window_
 - [Min Stack](04-stack/02-min-stack/) — _Stack_
+
+### 🟡 Needed Help (2)
+
+- [Longest Repeating Character Replacement](03-sliding-window/03-longest-repeating-character-replacement/) — _Sliding Window_
 - [Evaluate Reverse Polish Notation](04-stack/03-evaluate-reverse-polish-notation/) — _Stack_
 
-### 🔁 Do Again (8)
+### 🔁 Do Again (5)
 
-- [Two Sum](01-arrays-and-hashing/03-two-sum/) — _Arrays And Hashing_
 - [Top K Frequent Elements](01-arrays-and-hashing/05-top-k-frequent-elements/) — _Arrays And Hashing_
-- [Valid Sudoku](01-arrays-and-hashing/07-valid-sudoku/) — _Arrays And Hashing_
 - [Longest Consecutive Sequence](01-arrays-and-hashing/09-longest-consecutive-sequence/) — _Arrays And Hashing_
 - [Trapping Rain Water](02-two-pointers/05-trapping-rain-water/) — _Two Pointers_
 - [Longest Repeating Character Replacement](03-sliding-window/03-longest-repeating-character-replacement/) — _Sliding Window_
-- [Min Stack](04-stack/02-min-stack/) — _Stack_
 - [Evaluate Reverse Polish Notation](04-stack/03-evaluate-reverse-polish-notation/) — _Stack_
 
 ### 🧠 Tricky (2)
@@ -45,11 +43,11 @@
 |---|---|---|
 | [Contains Duplicate](01-arrays-and-hashing/01-contains-duplicate/) | Arrays And Hashing | 🟢 breeze |
 | [Valid Anagram](01-arrays-and-hashing/02-valid-anagram/) | Arrays And Hashing | 🟢 breeze |
-| [Two Sum](01-arrays-and-hashing/03-two-sum/) | Arrays And Hashing | 🟡 needed-help, 🔁 do-again |
+| [Two Sum](01-arrays-and-hashing/03-two-sum/) | Arrays And Hashing | 🟢 breeze |
 | [Group Anagrams](01-arrays-and-hashing/04-group-anagrams/) | Arrays And Hashing | 🟢 breeze |
 | [Top K Frequent Elements](01-arrays-and-hashing/05-top-k-frequent-elements/) | Arrays And Hashing | 🟢 breeze, 🔁 do-again |
 | [Product Of Array Except Self](01-arrays-and-hashing/06-product-of-array-except-self/) | Arrays And Hashing | _untagged_ |
-| [Valid Sudoku](01-arrays-and-hashing/07-valid-sudoku/) | Arrays And Hashing | 🔁 do-again |
+| [Valid Sudoku](01-arrays-and-hashing/07-valid-sudoku/) | Arrays And Hashing | 🟢 breeze |
 | [Encode And Decode Strings](01-arrays-and-hashing/08-encode-and-decode-strings/) | Arrays And Hashing | _untagged_ |
 | [Longest Consecutive Sequence](01-arrays-and-hashing/09-longest-consecutive-sequence/) | Arrays And Hashing | 🔁 do-again |
 | [Valid Palindrome](02-two-pointers/01-valid-palindrome/) | Two Pointers | 🟢 breeze |
@@ -64,7 +62,7 @@
 | [Minimum Window Substring](03-sliding-window/05-minimum-window-substring/) | Sliding Window | _untagged_ |
 | [Sliding Window Maximum](03-sliding-window/06-sliding-window-maximum/) | Sliding Window | _untagged_ |
 | [Valid Parentheses](04-stack/01-valid-parentheses/) | Stack | 🟢 breeze |
-| [Min Stack](04-stack/02-min-stack/) | Stack | 🔁 do-again, 🟡 needed-help |
+| [Min Stack](04-stack/02-min-stack/) | Stack | 🟢 breeze |
 | [Evaluate Reverse Polish Notation](04-stack/03-evaluate-reverse-polish-notation/) | Stack | 🔁 do-again, 🟡 needed-help |
 | [Generate Parentheses](04-stack/04-generate-parentheses/) | Stack | _untagged_ |
 | [Daily Temperatures](04-stack/05-daily-temperatures/) | Stack | _untagged_ |

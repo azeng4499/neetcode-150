@@ -8,3 +8,8 @@ I tried with my own implementation:
 
 My solution was too ineffcient, ranking near the bottom. So I used Claude to help me come up with a 
 better solution. Worth a retry at some point
+
+8/21/26
+Tags: do-again
+
+Still not intutively thinking about most optimal solution. Need to do this again.
