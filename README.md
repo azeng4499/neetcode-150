@@ -1,6 +1,6 @@
 # NeetCode 150
 
-**Progress:** 16 / 150 done (11%)
+**Progress:** 18 / 150 done (12%)
 
 ## By tag
 
@@ -19,23 +19,27 @@
 - [Valid Parentheses](04-stack/01-valid-parentheses/) — _Stack_
 - [Min Stack](04-stack/02-min-stack/) — _Stack_
 
-### 🟡 Needed Help (2)
+### 🟡 Needed Help (3)
 
 - [Longest Repeating Character Replacement](03-sliding-window/03-longest-repeating-character-replacement/) — _Sliding Window_
 - [Evaluate Reverse Polish Notation](04-stack/03-evaluate-reverse-polish-notation/) — _Stack_
+- [Daily Temperatures](04-stack/05-daily-temperatures/) — _Stack_
 
-### 🔁 Do Again (5)
+### 🔁 Do Again (7)
 
 - [Top K Frequent Elements](01-arrays-and-hashing/05-top-k-frequent-elements/) — _Arrays And Hashing_
 - [Longest Consecutive Sequence](01-arrays-and-hashing/09-longest-consecutive-sequence/) — _Arrays And Hashing_
 - [Trapping Rain Water](02-two-pointers/05-trapping-rain-water/) — _Two Pointers_
 - [Longest Repeating Character Replacement](03-sliding-window/03-longest-repeating-character-replacement/) — _Sliding Window_
 - [Evaluate Reverse Polish Notation](04-stack/03-evaluate-reverse-polish-notation/) — _Stack_
+- [Daily Temperatures](04-stack/05-daily-temperatures/) — _Stack_
+- [Car Fleet](04-stack/06-car-fleet/) — _Stack_
 
-### 🧠 Tricky (2)
+### 🧠 Tricky (3)
 
 - [Trapping Rain Water](02-two-pointers/05-trapping-rain-water/) — _Two Pointers_
 - [Longest Repeating Character Replacement](03-sliding-window/03-longest-repeating-character-replacement/) — _Sliding Window_
+- [Car Fleet](04-stack/06-car-fleet/) — _Stack_
 
 ## All problems
 
@@ -65,8 +69,8 @@
 | [Min Stack](04-stack/02-min-stack/) | Stack | 🟢 breeze |
 | [Evaluate Reverse Polish Notation](04-stack/03-evaluate-reverse-polish-notation/) | Stack | 🔁 do-again, 🟡 needed-help |
 | [Generate Parentheses](04-stack/04-generate-parentheses/) | Stack | _untagged_ |
-| [Daily Temperatures](04-stack/05-daily-temperatures/) | Stack | _untagged_ |
-| [Car Fleet](04-stack/06-car-fleet/) | Stack | _untagged_ |
+| [Daily Temperatures](04-stack/05-daily-temperatures/) | Stack | 🟡 needed-help, 🔁 do-again |
+| [Car Fleet](04-stack/06-car-fleet/) | Stack | 🧠 tricky, 🔁 do-again |
 | [Largest Rectangle In Histogram](04-stack/07-largest-rectangle-in-histogram/) | Stack | _untagged_ |
 | [Binary Search](05-binary-search/01-binary-search/) | Binary Search | _untagged_ |
 | [Search A 2d Matrix](05-binary-search/02-search-a-2d-matrix/) | Binary Search | _untagged_ |
