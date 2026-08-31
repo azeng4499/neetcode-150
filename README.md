@@ -1,10 +1,10 @@
 # NeetCode 150
 
-**Progress:** 18 / 150 done (12%)
+**Progress:** 20 / 150 done (13%)
 
 ## By tag
 
-### 🟢 Breeze (12)
+### 🟢 Breeze (13)
 
 - [Contains Duplicate](01-arrays-and-hashing/01-contains-duplicate/) — _Arrays And Hashing_
 - [Valid Anagram](01-arrays-and-hashing/02-valid-anagram/) — _Arrays And Hashing_
@@ -12,6 +12,7 @@
 - [Group Anagrams](01-arrays-and-hashing/04-group-anagrams/) — _Arrays And Hashing_
 - [Top K Frequent Elements](01-arrays-and-hashing/05-top-k-frequent-elements/) — _Arrays And Hashing_
 - [Valid Sudoku](01-arrays-and-hashing/07-valid-sudoku/) — _Arrays And Hashing_
+- [Encode And Decode Strings](01-arrays-and-hashing/08-encode-and-decode-strings/) — _Arrays And Hashing_
 - [Valid Palindrome](02-two-pointers/01-valid-palindrome/) — _Two Pointers_
 - [Two Sum Ii Input Array Is Sorted](02-two-pointers/02-two-sum-ii-input-array-is-sorted/) — _Two Pointers_
 - [Container With Most Water](02-two-pointers/04-container-with-most-water/) — _Two Pointers_
@@ -19,13 +20,14 @@
 - [Valid Parentheses](04-stack/01-valid-parentheses/) — _Stack_
 - [Min Stack](04-stack/02-min-stack/) — _Stack_
 
-### 🟡 Needed Help (3)
+### 🟡 Needed Help (4)
 
 - [Longest Repeating Character Replacement](03-sliding-window/03-longest-repeating-character-replacement/) — _Sliding Window_
 - [Evaluate Reverse Polish Notation](04-stack/03-evaluate-reverse-polish-notation/) — _Stack_
 - [Daily Temperatures](04-stack/05-daily-temperatures/) — _Stack_
+- [Reverse Linked List](06-linked-list/01-reverse-linked-list/) — _Linked List_
 
-### 🔁 Do Again (7)
+### 🔁 Do Again (8)
 
 - [Top K Frequent Elements](01-arrays-and-hashing/05-top-k-frequent-elements/) — _Arrays And Hashing_
 - [Longest Consecutive Sequence](01-arrays-and-hashing/09-longest-consecutive-sequence/) — _Arrays And Hashing_
@@ -34,6 +36,7 @@
 - [Evaluate Reverse Polish Notation](04-stack/03-evaluate-reverse-polish-notation/) — _Stack_
 - [Daily Temperatures](04-stack/05-daily-temperatures/) — _Stack_
 - [Car Fleet](04-stack/06-car-fleet/) — _Stack_
+- [Reverse Linked List](06-linked-list/01-reverse-linked-list/) — _Linked List_
 
 ### 🧠 Tricky (3)
 
@@ -52,7 +55,7 @@
 | [Top K Frequent Elements](01-arrays-and-hashing/05-top-k-frequent-elements/) | Arrays And Hashing | 🟢 breeze, 🔁 do-again |
 | [Product Of Array Except Self](01-arrays-and-hashing/06-product-of-array-except-self/) | Arrays And Hashing | _untagged_ |
 | [Valid Sudoku](01-arrays-and-hashing/07-valid-sudoku/) | Arrays And Hashing | 🟢 breeze |
-| [Encode And Decode Strings](01-arrays-and-hashing/08-encode-and-decode-strings/) | Arrays And Hashing | _untagged_ |
+| [Encode And Decode Strings](01-arrays-and-hashing/08-encode-and-decode-strings/) | Arrays And Hashing | 🟢 breeze |
 | [Longest Consecutive Sequence](01-arrays-and-hashing/09-longest-consecutive-sequence/) | Arrays And Hashing | 🔁 do-again |
 | [Valid Palindrome](02-two-pointers/01-valid-palindrome/) | Two Pointers | 🟢 breeze |
 | [Two Sum Ii Input Array Is Sorted](02-two-pointers/02-two-sum-ii-input-array-is-sorted/) | Two Pointers | 🟢 breeze |
@@ -79,7 +82,7 @@
 | [Search In Rotated Sorted Array](05-binary-search/05-search-in-rotated-sorted-array/) | Binary Search | _untagged_ |
 | [Time Based Key Value Store](05-binary-search/06-time-based-key-value-store/) | Binary Search | _untagged_ |
 | [Median Of Two Sorted Arrays](05-binary-search/07-median-of-two-sorted-arrays/) | Binary Search | _untagged_ |
-| [Reverse Linked List](06-linked-list/01-reverse-linked-list/) | Linked List | _untagged_ |
+| [Reverse Linked List](06-linked-list/01-reverse-linked-list/) | Linked List | 🟡 needed-help, 🔁 do-again |
 | [Merge Two Sorted Lists](06-linked-list/02-merge-two-sorted-lists/) | Linked List | _untagged_ |
 | [Reorder List](06-linked-list/03-reorder-list/) | Linked List | _untagged_ |
 | [Remove Nth Node From End Of List](06-linked-list/04-remove-nth-node-from-end-of-list/) | Linked List | _untagged_ |
