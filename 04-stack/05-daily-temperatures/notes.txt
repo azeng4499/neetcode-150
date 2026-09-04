@@ -2,3 +2,8 @@
 Tags: needed-help, do-again
 
 I got it with my solution, and logically it makes sense to me but it scored like last on the efficency graph lol.
+
+9/3/26
+Tags: breeze
+
+Stack solution finally makes sense to me. nice.

@@ -1,10 +1,10 @@
 # NeetCode 150
 
-**Progress:** 20 / 150 done (13%)
+**Progress:** 21 / 150 done (14%)
 
 ## By tag
 
-### 🟢 Breeze (13)
+### 🟢 Breeze (15)
 
 - [Contains Duplicate](01-arrays-and-hashing/01-contains-duplicate/) — _Arrays And Hashing_
 - [Valid Anagram](01-arrays-and-hashing/02-valid-anagram/) — _Arrays And Hashing_
@@ -17,14 +17,15 @@
 - [Two Sum Ii Input Array Is Sorted](02-two-pointers/02-two-sum-ii-input-array-is-sorted/) — _Two Pointers_
 - [Container With Most Water](02-two-pointers/04-container-with-most-water/) — _Two Pointers_
 - [Best Time To Buy And Sell Stock](03-sliding-window/01-best-time-to-buy-and-sell-stock/) — _Sliding Window_
+- [Permutation In String](03-sliding-window/04-permutation-in-string/) — _Sliding Window_
 - [Valid Parentheses](04-stack/01-valid-parentheses/) — _Stack_
 - [Min Stack](04-stack/02-min-stack/) — _Stack_
+- [Daily Temperatures](04-stack/05-daily-temperatures/) — _Stack_
 
-### 🟡 Needed Help (4)
+### 🟡 Needed Help (3)
 
 - [Longest Repeating Character Replacement](03-sliding-window/03-longest-repeating-character-replacement/) — _Sliding Window_
 - [Evaluate Reverse Polish Notation](04-stack/03-evaluate-reverse-polish-notation/) — _Stack_
-- [Daily Temperatures](04-stack/05-daily-temperatures/) — _Stack_
 - [Reverse Linked List](06-linked-list/01-reverse-linked-list/) — _Linked List_
 
 ### 🔁 Do Again (8)
@@ -33,8 +34,8 @@
 - [Longest Consecutive Sequence](01-arrays-and-hashing/09-longest-consecutive-sequence/) — _Arrays And Hashing_
 - [Trapping Rain Water](02-two-pointers/05-trapping-rain-water/) — _Two Pointers_
 - [Longest Repeating Character Replacement](03-sliding-window/03-longest-repeating-character-replacement/) — _Sliding Window_
+- [Permutation In String](03-sliding-window/04-permutation-in-string/) — _Sliding Window_
 - [Evaluate Reverse Polish Notation](04-stack/03-evaluate-reverse-polish-notation/) — _Stack_
-- [Daily Temperatures](04-stack/05-daily-temperatures/) — _Stack_
 - [Car Fleet](04-stack/06-car-fleet/) — _Stack_
 - [Reverse Linked List](06-linked-list/01-reverse-linked-list/) — _Linked List_
 
@@ -65,14 +66,14 @@
 | [Best Time To Buy And Sell Stock](03-sliding-window/01-best-time-to-buy-and-sell-stock/) | Sliding Window | 🟢 breeze |
 | [Longest Substring Without Repeating Characters](03-sliding-window/02-longest-substring-without-repeating-characters/) | Sliding Window | _untagged_ |
 | [Longest Repeating Character Replacement](03-sliding-window/03-longest-repeating-character-replacement/) | Sliding Window | 🧠 tricky, 🔁 do-again, 🟡 needed-help |
-| [Permutation In String](03-sliding-window/04-permutation-in-string/) | Sliding Window | _untagged_ |
+| [Permutation In String](03-sliding-window/04-permutation-in-string/) | Sliding Window | 🟢 breeze, 🔁 do-again |
 | [Minimum Window Substring](03-sliding-window/05-minimum-window-substring/) | Sliding Window | _untagged_ |
 | [Sliding Window Maximum](03-sliding-window/06-sliding-window-maximum/) | Sliding Window | _untagged_ |
 | [Valid Parentheses](04-stack/01-valid-parentheses/) | Stack | 🟢 breeze |
 | [Min Stack](04-stack/02-min-stack/) | Stack | 🟢 breeze |
 | [Evaluate Reverse Polish Notation](04-stack/03-evaluate-reverse-polish-notation/) | Stack | 🔁 do-again, 🟡 needed-help |
 | [Generate Parentheses](04-stack/04-generate-parentheses/) | Stack | _untagged_ |
-| [Daily Temperatures](04-stack/05-daily-temperatures/) | Stack | 🟡 needed-help, 🔁 do-again |
+| [Daily Temperatures](04-stack/05-daily-temperatures/) | Stack | 🟢 breeze |
 | [Car Fleet](04-stack/06-car-fleet/) | Stack | 🧠 tricky, 🔁 do-again |
 | [Largest Rectangle In Histogram](04-stack/07-largest-rectangle-in-histogram/) | Stack | _untagged_ |
 | [Binary Search](05-binary-search/01-binary-search/) | Binary Search | _untagged_ |
