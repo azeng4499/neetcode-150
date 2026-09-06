@@ -1,10 +1,10 @@
 # NeetCode 150
 
-**Progress:** 21 / 150 done (14%)
+**Progress:** 23 / 150 done (15%)
 
 ## By tag
 
-### 🟢 Breeze (15)
+### 🟢 Breeze (16)
 
 - [Contains Duplicate](01-arrays-and-hashing/01-contains-duplicate/) — _Arrays And Hashing_
 - [Valid Anagram](01-arrays-and-hashing/02-valid-anagram/) — _Arrays And Hashing_
@@ -21,6 +21,7 @@
 - [Valid Parentheses](04-stack/01-valid-parentheses/) — _Stack_
 - [Min Stack](04-stack/02-min-stack/) — _Stack_
 - [Daily Temperatures](04-stack/05-daily-temperatures/) — _Stack_
+- [Largest Rectangle In Histogram](04-stack/07-largest-rectangle-in-histogram/) — _Stack_
 
 ### 🟡 Needed Help (3)
 
@@ -28,21 +29,24 @@
 - [Evaluate Reverse Polish Notation](04-stack/03-evaluate-reverse-polish-notation/) — _Stack_
 - [Reverse Linked List](06-linked-list/01-reverse-linked-list/) — _Linked List_
 
-### 🔁 Do Again (8)
+### 🔁 Do Again (10)
 
 - [Top K Frequent Elements](01-arrays-and-hashing/05-top-k-frequent-elements/) — _Arrays And Hashing_
 - [Longest Consecutive Sequence](01-arrays-and-hashing/09-longest-consecutive-sequence/) — _Arrays And Hashing_
 - [Trapping Rain Water](02-two-pointers/05-trapping-rain-water/) — _Two Pointers_
 - [Longest Repeating Character Replacement](03-sliding-window/03-longest-repeating-character-replacement/) — _Sliding Window_
 - [Permutation In String](03-sliding-window/04-permutation-in-string/) — _Sliding Window_
+- [Minimum Window Substring](03-sliding-window/05-minimum-window-substring/) — _Sliding Window_
 - [Evaluate Reverse Polish Notation](04-stack/03-evaluate-reverse-polish-notation/) — _Stack_
 - [Car Fleet](04-stack/06-car-fleet/) — _Stack_
+- [Largest Rectangle In Histogram](04-stack/07-largest-rectangle-in-histogram/) — _Stack_
 - [Reverse Linked List](06-linked-list/01-reverse-linked-list/) — _Linked List_
 
-### 🧠 Tricky (3)
+### 🧠 Tricky (4)
 
 - [Trapping Rain Water](02-two-pointers/05-trapping-rain-water/) — _Two Pointers_
 - [Longest Repeating Character Replacement](03-sliding-window/03-longest-repeating-character-replacement/) — _Sliding Window_
+- [Minimum Window Substring](03-sliding-window/05-minimum-window-substring/) — _Sliding Window_
 - [Car Fleet](04-stack/06-car-fleet/) — _Stack_
 
 ## All problems
@@ -67,7 +71,7 @@
 | [Longest Substring Without Repeating Characters](03-sliding-window/02-longest-substring-without-repeating-characters/) | Sliding Window | _untagged_ |
 | [Longest Repeating Character Replacement](03-sliding-window/03-longest-repeating-character-replacement/) | Sliding Window | 🧠 tricky, 🔁 do-again, 🟡 needed-help |
 | [Permutation In String](03-sliding-window/04-permutation-in-string/) | Sliding Window | 🟢 breeze, 🔁 do-again |
-| [Minimum Window Substring](03-sliding-window/05-minimum-window-substring/) | Sliding Window | _untagged_ |
+| [Minimum Window Substring](03-sliding-window/05-minimum-window-substring/) | Sliding Window | 🧠 tricky, 🔁 do-again |
 | [Sliding Window Maximum](03-sliding-window/06-sliding-window-maximum/) | Sliding Window | _untagged_ |
 | [Valid Parentheses](04-stack/01-valid-parentheses/) | Stack | 🟢 breeze |
 | [Min Stack](04-stack/02-min-stack/) | Stack | 🟢 breeze |
@@ -75,7 +79,7 @@
 | [Generate Parentheses](04-stack/04-generate-parentheses/) | Stack | _untagged_ |
 | [Daily Temperatures](04-stack/05-daily-temperatures/) | Stack | 🟢 breeze |
 | [Car Fleet](04-stack/06-car-fleet/) | Stack | 🧠 tricky, 🔁 do-again |
-| [Largest Rectangle In Histogram](04-stack/07-largest-rectangle-in-histogram/) | Stack | _untagged_ |
+| [Largest Rectangle In Histogram](04-stack/07-largest-rectangle-in-histogram/) | Stack | 🟢 breeze, 🔁 do-again |
 | [Binary Search](05-binary-search/01-binary-search/) | Binary Search | _untagged_ |
 | [Search A 2d Matrix](05-binary-search/02-search-a-2d-matrix/) | Binary Search | _untagged_ |
 | [Koko Eating Bananas](05-binary-search/03-koko-eating-bananas/) | Binary Search | _untagged_ |
